@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# .vscode settings (because I use Mac and Windows)
+.vscode/*
