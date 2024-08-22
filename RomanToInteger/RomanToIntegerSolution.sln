@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RomanToInteger", "RomanToIn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanToIntegerSolution", "RomanToInteger\RomanToIntegerSolution\RomanToIntegerSolution.csproj", "{CF4E42CA-4CB7-4F50-A4D1-5000806EFB86}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsSubsequenceSolution", "..\Is Subsequence\IsSubsequenceSolution\IsSubsequenceSolution.csproj", "{7E4F680E-FB52-45D5-AA8B-711DBB0600C4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{CF4E42CA-4CB7-4F50-A4D1-5000806EFB86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF4E42CA-4CB7-4F50-A4D1-5000806EFB86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF4E42CA-4CB7-4F50-A4D1-5000806EFB86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E4F680E-FB52-45D5-AA8B-711DBB0600C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E4F680E-FB52-45D5-AA8B-711DBB0600C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E4F680E-FB52-45D5-AA8B-711DBB0600C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E4F680E-FB52-45D5-AA8B-711DBB0600C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{CF4E42CA-4CB7-4F50-A4D1-5000806EFB86} = {1510195A-C014-4ADA-A43A-347DE8C5C9AB}

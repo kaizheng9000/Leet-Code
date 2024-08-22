@@ -1,0 +1,15 @@
+e:\Github Repository\Leet-Code\Is Subsequence\IsSubsequenceSolution\bin\Debug\net8.0\IsSubsequenceSolution.exe
+e:\Github Repository\Leet-Code\Is Subsequence\IsSubsequenceSolution\bin\Debug\net8.0\IsSubsequenceSolution.deps.json
+e:\Github Repository\Leet-Code\Is Subsequence\IsSubsequenceSolution\bin\Debug\net8.0\IsSubsequenceSolution.runtimeconfig.json
+e:\Github Repository\Leet-Code\Is Subsequence\IsSubsequenceSolution\bin\Debug\net8.0\IsSubsequenceSolution.dll
+e:\Github Repository\Leet-Code\Is Subsequence\IsSubsequenceSolution\bin\Debug\net8.0\IsSubsequenceSolution.pdb
+e:\Github Repository\Leet-Code\Is Subsequence\IsSubsequenceSolution\obj\Debug\net8.0\IsSubsequenceSolution.GeneratedMSBuildEditorConfig.editorconfig
+e:\Github Repository\Leet-Code\Is Subsequence\IsSubsequenceSolution\obj\Debug\net8.0\IsSubsequenceSolution.AssemblyInfoInputs.cache
+e:\Github Repository\Leet-Code\Is Subsequence\IsSubsequenceSolution\obj\Debug\net8.0\IsSubsequenceSolution.AssemblyInfo.cs
+e:\Github Repository\Leet-Code\Is Subsequence\IsSubsequenceSolution\obj\Debug\net8.0\IsSubsequenceSolution.csproj.CoreCompileInputs.cache
+e:\Github Repository\Leet-Code\Is Subsequence\IsSubsequenceSolution\obj\Debug\net8.0\IsSubsequenceSolution.sourcelink.json
+e:\Github Repository\Leet-Code\Is Subsequence\IsSubsequenceSolution\obj\Debug\net8.0\IsSubsequenceSolution.dll
+e:\Github Repository\Leet-Code\Is Subsequence\IsSubsequenceSolution\obj\Debug\net8.0\refint\IsSubsequenceSolution.dll
+e:\Github Repository\Leet-Code\Is Subsequence\IsSubsequenceSolution\obj\Debug\net8.0\IsSubsequenceSolution.pdb
+e:\Github Repository\Leet-Code\Is Subsequence\IsSubsequenceSolution\obj\Debug\net8.0\IsSubsequenceSolution.genruntimeconfig.cache
+e:\Github Repository\Leet-Code\Is Subsequence\IsSubsequenceSolution\obj\Debug\net8.0\ref\IsSubsequenceSolution.dll
