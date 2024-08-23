@@ -17,6 +17,7 @@ public class SummaryRangesSolutionFactory
     {
         List<string> result = [];
 
+        // Must check for empty
         if (nums.Length == 0)
         {
             return result;
