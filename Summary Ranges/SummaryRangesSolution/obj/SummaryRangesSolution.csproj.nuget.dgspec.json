@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Github Repository\\Leet-Code\\Is Subsequence\\IsSubsequenceSolution\\IsSubsequenceSolution.csproj": {}
+    "e:\\Github Repository\\Leet-Code\\Summary Ranges\\SummaryRangesSolution\\SummaryRangesSolution.csproj": {}
   },
   "projects": {
-    "E:\\Github Repository\\Leet-Code\\Is Subsequence\\IsSubsequenceSolution\\IsSubsequenceSolution.csproj": {
+    "e:\\Github Repository\\Leet-Code\\Summary Ranges\\SummaryRangesSolution\\SummaryRangesSolution.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Github Repository\\Leet-Code\\Is Subsequence\\IsSubsequenceSolution\\IsSubsequenceSolution.csproj",
-        "projectName": "IsSubsequenceSolution",
-        "projectPath": "E:\\Github Repository\\Leet-Code\\Is Subsequence\\IsSubsequenceSolution\\IsSubsequenceSolution.csproj",
+        "projectUniqueName": "e:\\Github Repository\\Leet-Code\\Summary Ranges\\SummaryRangesSolution\\SummaryRangesSolution.csproj",
+        "projectName": "SummaryRangesSolution",
+        "projectPath": "e:\\Github Repository\\Leet-Code\\Summary Ranges\\SummaryRangesSolution\\SummaryRangesSolution.csproj",
         "packagesPath": "C:\\Users\\kaizh\\.nuget\\packages\\",
-        "outputPath": "E:\\Github Repository\\Leet-Code\\Is Subsequence\\IsSubsequenceSolution\\obj\\",
+        "outputPath": "e:\\Github Repository\\Leet-Code\\Summary Ranges\\SummaryRangesSolution\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
