@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsSubsequenceSolution", "..
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SummaryRangesSolution", "..\Summary Ranges\SummaryRangesSolution\SummaryRangesSolution.csproj", "{D81F0049-49D7-45C4-BF3B-97E68A9803A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductOfArrayExceptSelfSolution", "..\Product of Array Except Self\ProductOfArrayExceptSelfSolution\ProductOfArrayExceptSelfSolution.csproj", "{26029621-7853-4DAB-AEC2-009CD15AB04F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +34,10 @@ Global
 		{D81F0049-49D7-45C4-BF3B-97E68A9803A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D81F0049-49D7-45C4-BF3B-97E68A9803A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D81F0049-49D7-45C4-BF3B-97E68A9803A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26029621-7853-4DAB-AEC2-009CD15AB04F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26029621-7853-4DAB-AEC2-009CD15AB04F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26029621-7853-4DAB-AEC2-009CD15AB04F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26029621-7853-4DAB-AEC2-009CD15AB04F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{CF4E42CA-4CB7-4F50-A4D1-5000806EFB86} = {1510195A-C014-4ADA-A43A-347DE8C5C9AB}

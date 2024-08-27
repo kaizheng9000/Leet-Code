@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Github Repository\\Leet-Code\\Summary Ranges\\SummaryRangesSolution\\SummaryRangesSolution.csproj": {}
+    "e:\\Github Repository\\Leet-Code\\Product of Array Except Self\\ProductOfArrayExceptSelfSolution\\ProductOfArrayExceptSelfSolution.csproj": {}
   },
   "projects": {
-    "E:\\Github Repository\\Leet-Code\\Summary Ranges\\SummaryRangesSolution\\SummaryRangesSolution.csproj": {
+    "e:\\Github Repository\\Leet-Code\\Product of Array Except Self\\ProductOfArrayExceptSelfSolution\\ProductOfArrayExceptSelfSolution.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Github Repository\\Leet-Code\\Summary Ranges\\SummaryRangesSolution\\SummaryRangesSolution.csproj",
-        "projectName": "SummaryRangesSolution",
-        "projectPath": "E:\\Github Repository\\Leet-Code\\Summary Ranges\\SummaryRangesSolution\\SummaryRangesSolution.csproj",
+        "projectUniqueName": "e:\\Github Repository\\Leet-Code\\Product of Array Except Self\\ProductOfArrayExceptSelfSolution\\ProductOfArrayExceptSelfSolution.csproj",
+        "projectName": "ProductOfArrayExceptSelfSolution",
+        "projectPath": "e:\\Github Repository\\Leet-Code\\Product of Array Except Self\\ProductOfArrayExceptSelfSolution\\ProductOfArrayExceptSelfSolution.csproj",
         "packagesPath": "C:\\Users\\kaizh\\.nuget\\packages\\",
-        "outputPath": "E:\\Github Repository\\Leet-Code\\Summary Ranges\\SummaryRangesSolution\\obj\\",
+        "outputPath": "e:\\Github Repository\\Leet-Code\\Product of Array Except Self\\ProductOfArrayExceptSelfSolution\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
