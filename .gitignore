@@ -10,6 +10,7 @@
 # C# Build files
 .vs/
 [Bb]in/
+[Oo]bj/
 
 # Precompiled Headers
 *.gch
