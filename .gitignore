@@ -7,6 +7,10 @@
 *.o
 *.obj
 
+# C# Build files
+.vs/
+[Bb]in/
+
 # Precompiled Headers
 *.gch
 *.pch

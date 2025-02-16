@@ -1,0 +1,15 @@
+C:\Users\kaizh\Source\Repos\kaizheng9000\Leet-Code\Top Interview 150\Length of Last Word\obj\Debug\net8.0\Length of Last Word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaizh\Source\Repos\kaizheng9000\Leet-Code\Top Interview 150\Length of Last Word\obj\Debug\net8.0\Length of Last Word.AssemblyInfoInputs.cache
+C:\Users\kaizh\Source\Repos\kaizheng9000\Leet-Code\Top Interview 150\Length of Last Word\obj\Debug\net8.0\Length of Last Word.AssemblyInfo.cs
+C:\Users\kaizh\Source\Repos\kaizheng9000\Leet-Code\Top Interview 150\Length of Last Word\obj\Debug\net8.0\Length of Last Word.csproj.CoreCompileInputs.cache
+C:\Users\kaizh\Source\Repos\kaizheng9000\Leet-Code\Top Interview 150\Length of Last Word\obj\Debug\net8.0\Length of Last Word.sourcelink.json
+C:\Users\kaizh\Source\Repos\kaizheng9000\Leet-Code\Top Interview 150\Length of Last Word\bin\Debug\net8.0\Length of Last Word.exe
+C:\Users\kaizh\Source\Repos\kaizheng9000\Leet-Code\Top Interview 150\Length of Last Word\bin\Debug\net8.0\Length of Last Word.deps.json
+C:\Users\kaizh\Source\Repos\kaizheng9000\Leet-Code\Top Interview 150\Length of Last Word\bin\Debug\net8.0\Length of Last Word.runtimeconfig.json
+C:\Users\kaizh\Source\Repos\kaizheng9000\Leet-Code\Top Interview 150\Length of Last Word\bin\Debug\net8.0\Length of Last Word.dll
+C:\Users\kaizh\Source\Repos\kaizheng9000\Leet-Code\Top Interview 150\Length of Last Word\bin\Debug\net8.0\Length of Last Word.pdb
+C:\Users\kaizh\Source\Repos\kaizheng9000\Leet-Code\Top Interview 150\Length of Last Word\obj\Debug\net8.0\Length of Last Word.dll
+C:\Users\kaizh\Source\Repos\kaizheng9000\Leet-Code\Top Interview 150\Length of Last Word\obj\Debug\net8.0\refint\Length of Last Word.dll
+C:\Users\kaizh\Source\Repos\kaizheng9000\Leet-Code\Top Interview 150\Length of Last Word\obj\Debug\net8.0\Length of Last Word.pdb
+C:\Users\kaizh\Source\Repos\kaizheng9000\Leet-Code\Top Interview 150\Length of Last Word\obj\Debug\net8.0\Length of Last Word.genruntimeconfig.cache
+C:\Users\kaizh\Source\Repos\kaizheng9000\Leet-Code\Top Interview 150\Length of Last Word\obj\Debug\net8.0\ref\Length of Last Word.dll
