@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\Github Repository\\Leet-Code\\Is Subsequence\\IsSubsequenceSolution\\IsSubsequenceSolution.csproj",
+      "projectUniqueName": "C:\\Users\\kaizh\\source\\repos\\kaizheng9000\\Leet-Code\\Is Subsequence\\IsSubsequenceSolution\\IsSubsequenceSolution.csproj",
       "projectName": "IsSubsequenceSolution",
-      "projectPath": "e:\\Github Repository\\Leet-Code\\Is Subsequence\\IsSubsequenceSolution\\IsSubsequenceSolution.csproj",
+      "projectPath": "C:\\Users\\kaizh\\source\\repos\\kaizheng9000\\Leet-Code\\Is Subsequence\\IsSubsequenceSolution\\IsSubsequenceSolution.csproj",
       "packagesPath": "C:\\Users\\kaizh\\.nuget\\packages\\",
-      "outputPath": "e:\\Github Repository\\Leet-Code\\Is Subsequence\\IsSubsequenceSolution\\obj\\",
+      "outputPath": "C:\\Users\\kaizh\\source\\repos\\kaizheng9000\\Leet-Code\\Is Subsequence\\IsSubsequenceSolution\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

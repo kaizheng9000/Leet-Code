@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Github Repository\\Leet-Code\\Summary Ranges\\SummaryRangesSolution\\SummaryRangesSolution.csproj",
+      "projectUniqueName": "C:\\Users\\kaizh\\source\\repos\\kaizheng9000\\Leet-Code\\Summary Ranges\\SummaryRangesSolution\\SummaryRangesSolution.csproj",
       "projectName": "SummaryRangesSolution",
-      "projectPath": "E:\\Github Repository\\Leet-Code\\Summary Ranges\\SummaryRangesSolution\\SummaryRangesSolution.csproj",
+      "projectPath": "C:\\Users\\kaizh\\source\\repos\\kaizheng9000\\Leet-Code\\Summary Ranges\\SummaryRangesSolution\\SummaryRangesSolution.csproj",
       "packagesPath": "C:\\Users\\kaizh\\.nuget\\packages\\",
-      "outputPath": "E:\\Github Repository\\Leet-Code\\Summary Ranges\\SummaryRangesSolution\\obj\\",
+      "outputPath": "C:\\Users\\kaizh\\source\\repos\\kaizheng9000\\Leet-Code\\Summary Ranges\\SummaryRangesSolution\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Github Repository\\Leet-Code\\Product of Array Except Self\\ProductOfArrayExceptSelfSolution\\ProductOfArrayExceptSelfSolution.csproj",
+      "projectUniqueName": "C:\\Users\\kaizh\\source\\repos\\kaizheng9000\\Leet-Code\\Product of Array Except Self\\ProductOfArrayExceptSelfSolution\\ProductOfArrayExceptSelfSolution.csproj",
       "projectName": "ProductOfArrayExceptSelfSolution",
-      "projectPath": "E:\\Github Repository\\Leet-Code\\Product of Array Except Self\\ProductOfArrayExceptSelfSolution\\ProductOfArrayExceptSelfSolution.csproj",
+      "projectPath": "C:\\Users\\kaizh\\source\\repos\\kaizheng9000\\Leet-Code\\Product of Array Except Self\\ProductOfArrayExceptSelfSolution\\ProductOfArrayExceptSelfSolution.csproj",
       "packagesPath": "C:\\Users\\kaizh\\.nuget\\packages\\",
-      "outputPath": "E:\\Github Repository\\Leet-Code\\Product of Array Except Self\\ProductOfArrayExceptSelfSolution\\obj\\",
+      "outputPath": "C:\\Users\\kaizh\\source\\repos\\kaizheng9000\\Leet-Code\\Product of Array Except Self\\ProductOfArrayExceptSelfSolution\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
