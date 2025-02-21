@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IsSubsequenceSolution")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2eee537d543fc7ccefb3a803a602e76431956eb4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+322874eee99358056c0ffe20bc80d7a7bd048241")]
 [assembly: System.Reflection.AssemblyProductAttribute("IsSubsequenceSolution")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IsSubsequenceSolution")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
