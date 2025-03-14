@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SummaryRangesSolution")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7aa474d2b238ecf20c855dcf62617eac1f8d16c2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d92ff6e5c621e6b51cbd6953cec4415310ff4f02")]
 [assembly: System.Reflection.AssemblyProductAttribute("SummaryRangesSolution")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SummaryRangesSolution")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
