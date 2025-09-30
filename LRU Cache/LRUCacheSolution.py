@@ -56,6 +56,7 @@ class LRUCache:
         # Need to take out the node if it's already there so we don't have duplicates
         #  in the cache
         if key in self.cache:
+            # Could just update the node value instead of removing the node and creating another
             self.remove(self.cache[key])
 
         self.cache[key] = Node(key, value)
